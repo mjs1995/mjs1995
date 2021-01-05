@@ -13,10 +13,14 @@ Python(My Most confident language), SQL, R, SPSS languages. I am very interested
 | External activities | 2020.10 ~ 2021.1  | Google MachineLearning BootCamp      | Google Developers  |
 
 Languages
-https://img.shields.io/amo/stars/PYTHON?color=blue&label=PYTHON&logo=Python&style=plastic
+
+![PYTHON](https://img.shields.io/amo/stars/PYTHON?color=blue&label=PYTHON&logo=Python&style=plastic)
 
 Contacts
+
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/moon-jeongseung-24194b182/)](https://www.linkedin.com/in/moon-jeongseung-24194b182/)
+
+[![github](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mjs1995.tistory.com/)](https://mjs1995.tistory.com/)]
 
 <!--
 **mjs1995/mjs1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
