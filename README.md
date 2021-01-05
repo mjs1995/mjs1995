@@ -12,7 +12,7 @@ Python(My Most confident language), SQL, R, SPSS languages. I am very interested
 | External activities | 2020.6 ~ 2020.9   | Data Youth Campus(Yonsei University) | Kdata              |
 | External activities | 2020.10 ~ 2021.1  | Google MachineLearning BootCamp      | Google Developers  |
 
-Languages
+⚡Languages
 
 ![PYTHON](https://img.shields.io/amo/stars/PYTHON?color=blue&label=PYTHON&logo=Python&style=plastic)
 
