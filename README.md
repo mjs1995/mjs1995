@@ -18,9 +18,7 @@ Languages
 
 Contacts
 
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/moon-jeongseung-24194b182/)](https://www.linkedin.com/in/moon-jeongseung-24194b182/)
-
-[![github](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mjs1995.tistory.com/)](https://mjs1995.tistory.com/)]
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/moon-jeongseung-24194b182/)](https://www.linkedin.com/in/moon-jeongseung-24194b182/) [![github](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mjs1995.tistory.com/)](https://mjs1995.tistory.com/)
 
 <!--
 **mjs1995/mjs1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
