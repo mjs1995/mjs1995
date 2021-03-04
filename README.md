@@ -12,6 +12,13 @@ Python(My Most confident language), SQL, R, SPSS languages. I am very interested
 | External activities | 2020.6 ~ 2020.9   | Data Youth Campus(Yonsei University) | Kdata              |
 | External activities | 2020.10 ~ 2021.1  | Google MachineLearning BootCamp      | Google Developers  |
 
+😄 Publication[[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10532320&language=ko_KR)]
+
+A Study on the Factors and Overcoming Methods of Extinction of Provinces in Korea: The Exploration with Machine Learning methods - The Korean Journal of Local Government Studies
+
+
+
+
 ⚡Languages
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=MySQL&logoColor=white) ![R](https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=R&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=&logoColor=white) 
