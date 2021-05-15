@@ -3,8 +3,7 @@
 My major is Applied Statistics, and I have been studying Data analysis and MachineLearning since 2018, I have project experience using
 Python(My Most confident language), SQL, R, SPSS languages. I am very interested in machine learning
 
-
-:star: Career
+👨‍💻  Career
 | Type                | Date              | Contents                             | Organization       |
 |---------------------|-------------------|--------------------------------------|--------------------|
 | Education           | 2014.3 ~ 2021.2   | Department of Applied Statistics     | Kyonggi University |
@@ -12,7 +11,7 @@ Python(My Most confident language), SQL, R, SPSS languages. I am very interested
 | External activities | 2020.6 ~ 2020.9   | Data Youth Campus(Yonsei University) | Kdata              |
 | External activities | 2020.10 ~ 2021.1  | Google MachineLearning BootCamp      | Google Developers  |
 
-😄 Publication[[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10532320&language=ko_KR)]
+📄 Publication[[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10532320&language=ko_KR)]
 
 A Study on the Factors and Overcoming Methods of Extinction of Provinces in Korea: The Exploration with Machine Learning methods - The Korean Journal of Local Government Studies
 
