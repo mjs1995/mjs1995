@@ -15,7 +15,7 @@ Python(My Most confident language), SQL, R, SPSS languages. I am very interested
 
 A Study on the Factors and Overcoming Methods of Extinction of Provinces in Korea: The Exploration with Machine Learning methods - The Korean Journal of Local Government Studies
 
-
+🌱 Award[[Link](https://github.com/mjs1995/yeonsei_project/blob/master/%EC%88%98%EC%83%81.md)]
 
 ⚡Languages
 
