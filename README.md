@@ -4,12 +4,13 @@ My major is Applied Statistics, and I have been studying Data analysis and Machi
 Python(My Most confident language), SQL, R, SPSS languages. I am very interested in machine learning
 
 👨‍💻  Career
-| Type                | Date              | Contents                             | Organization       |
+| **Type**                | **Date**              | **Contents**                             | **Organization**       |
 |---------------------|-------------------|--------------------------------------|--------------------|
-| Education           | 2014.3 ~ 2021.2   | Department of Applied Statistics     | Kyonggi University |
-| External activities | 2019.11 ~ 2019.12 | AI Manager                           | Nipa               |
-| External activities | 2020.6 ~ 2020.9   | Data Youth Campus(Yonsei University) | Kdata              |
-| External activities | 2020.10 ~ 2021.1  | Google MachineLearning BootCamp      | Google Developers  |
+| **:mortar_board:Education**           | 2014.3 ~ 2021.2   | Department of Applied Statistics     | **Kyonggi University** |
+| **External activities** | 2019.11 ~ 2019.12 | AI Manager                           | **Nipa**               |
+| **External activities** | 2020.6 ~ 2020.9   | Data Youth Campus(Yonsei University) | **Kdata**              |
+| **External activities** | 2020.10 ~ 2021.1  | Google MachineLearning BootCamp      | **Google Developers**  |
+| **:office:Employment** | 2021. 6 ~ | Data Scientist | **LOTTE DATA COMMUNICATION COMPANY** |
 
 📄 Publication[[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10532320&language=ko_KR)]
 
