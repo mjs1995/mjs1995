@@ -1,4 +1,4 @@
-### 👋 Hello My name is JeongSeung
+👋 Hello My name is JeongSeung Mun, I am a Data Scientist working at ![image](https://user-images.githubusercontent.com/47103479/124492971-12aab900-ddf0-11eb-8074-4070805556c2.png)
 
 My major is Applied Statistics, and I have been studying Data analysis and MachineLearning since 2018, I have project experience using
 Python(My Most confident language), SQL, R, SPSS languages. I am very interested in machine learning
