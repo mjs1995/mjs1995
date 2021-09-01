@@ -18,13 +18,13 @@ A Study on the Factors and Overcoming Methods of Extinction of Provinces in Kore
 
 🌱 Award[[Link](https://github.com/mjs1995/yeonsei_project/blob/master/%EC%88%98%EC%83%81.md)]
 
+Received the grand prize in the 2020 Big Data Youth Talent Development Project (Data Youth Campus) project evaluation
+
 ⚡Languages
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=MySQL&logoColor=white) ![R](https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=R&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=&logoColor=white) 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=E25A1C&logoColor=white)
-
-
-
+<img src="https://img.shields.io/badge/Tableau-165b9c?style=flat-square&logo=Tableau&logoColor=white"/></a> <img src="https://img.shields.io/badge/Selenium-22c853?style=flat-square&logo=Selenium&logoColor=white"/></a>
 [![Tensorfllow Badge](http://img.shields.io/badge/-Tensorflow_Developer_Certificate-FF6F00?style=flat&logo=TensorFlow&logoColor=white&link=https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)](https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)
 
 
