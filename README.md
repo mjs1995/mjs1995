@@ -35,6 +35,7 @@ Received the grand prize in the 2020 Big Data Youth Talent Development Project (
 
 ✨ Algorithm 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mjs1995&" alt="mjs1995" /></p>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=munmun2004)](https://solved.ac/munmun2004/)
 
 
