@@ -34,10 +34,10 @@ Received the grand prize in the 2020 Big Data Youth Talent Development Project (
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/moon-jeongseung-24194b182/)](https://www.linkedin.com/in/moon-jeongseung-24194b182/) [![github](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mjs1995.tistory.com/)](https://mjs1995.tistory.com/)
 
 ✨ Algorithm 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mjs1995&" alt="mjs1995" /></p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=munmun2004)](https://solved.ac/munmun2004/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjs1995&" alt="mjs1995" /></p>
 
 <!--
 **mjs1995/mjs1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
