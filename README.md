@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=EADFF2&height=200&section=header&text=JeongSeung%20Moon&&fontColor=632a72&fontSize=70&animation=fadeIn&fontAlignY=30)
+
 👋 Hello My name is JeongSeung Mun, I am a Data Scientist working at ![image](https://user-images.githubusercontent.com/47103479/124492971-12aab900-ddf0-11eb-8074-4070805556c2.png)
 
 My major is Applied Statistics, and I have been studying Data analysis and MachineLearning since 2018, I have project experience using
@@ -21,11 +23,21 @@ A Study on the Factors and Overcoming Methods of Extinction of Provinces in Kore
 
 Received the grand prize in the 2020 Big Data Youth Talent Development Project (Data Youth Campus) project evaluation
 
-⚡Languages
+📚 Tech Stack
 
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=MySQL&logoColor=white) ![R](https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=R&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=&logoColor=white) 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=E25A1C&logoColor=white)
-<img src="https://img.shields.io/badge/Tableau-165b9c?style=flat-square&logo=Tableau&logoColor=white"/></a> <img src="https://img.shields.io/badge/Selenium-22c853?style=flat-square&logo=Selenium&logoColor=white"/></a> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/></a>
+![SPSS](https://img.shields.io/badge/SPSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=&logoColor=white) 
+<img src="https://img.shields.io/badge/Apache Spark-800080?style=flat-square&logo=Apache Spark&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tableau-165b9c?style=flat-square&logo=Tableau&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Selenium-22c853?style=flat-square&logo=Selenium&logoColor=white"/></a> 
+
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+
 [![Tensorfllow Badge](http://img.shields.io/badge/-Tensorflow_Developer_Certificate-FF6F00?style=flat&logo=TensorFlow&logoColor=white&link=https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)](https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)
 
 
