@@ -26,17 +26,17 @@ Received the grand prize in the 2020 Big Data Youth Talent Development Project (
 📚 Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-00758F?style=flat-square&logo=MySql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/></a>
-![SPSS](https://img.shields.io/badge/SPSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=&logoColor=white) 
-<img src="https://img.shields.io/badge/Apache Spark-800080?style=flat-square&logo=Apache Spark&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tableau-165b9c?style=flat-square&logo=Tableau&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Selenium-22c853?style=flat-square&logo=Selenium&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=IBM&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a> 
 
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> 
 
 [![Tensorfllow Badge](http://img.shields.io/badge/-Tensorflow_Developer_Certificate-FF6F00?style=flat&logo=TensorFlow&logoColor=white&link=https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)](https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)
 
