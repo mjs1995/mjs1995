@@ -40,10 +40,10 @@ Received the grand prize in the 2020 Big Data Youth Talent Development Project (
 
 [![Tensorfllow Badge](http://img.shields.io/badge/-Tensorflow_Developer_Certificate-FF6F00?style=flat&logo=TensorFlow&logoColor=white&link=https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)](https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)
 
-
 📫 Contacts
 
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/moon-jeongseung-24194b182/)](https://www.linkedin.com/in/moon-jeongseung-24194b182/) [![github](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mjs1995.tistory.com/)](https://mjs1995.tistory.com/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjs1995&label=Profile%20views&color=0e75b6&style=flat-square" alt="mjs1995" /> </p>
 
 ✨ Algorithm 
 
@@ -53,6 +53,7 @@ Received the grand prize in the 2020 Big Data Youth Talent Development Project (
 
 <!--
 **mjs1995/mjs1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
