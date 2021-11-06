@@ -12,7 +12,7 @@ Python(My Most confident language), SQL, R, SPSS languages. I am very interested
 | **External activities** | 2019.11 ~ 2019.12 | AI Manager                           | **Nipa**               |
 | **External activities** | 2020.6 ~ 2020.9   | Data Youth Campus(Yonsei University) | **Kdata**              |
 | **External activities** | 2020.10 ~ 2021.1  | Google MachineLearning BootCamp      | **Google Developers**  |
-| **External activities** | 2021.8 ~ 2021.9  | Tableau BootCamp      | **Tableau**  |
+| **External activities** | 2021.8 ~ 2021.10  | Tableau BootCamp      | **Tableau**  |
 | **:office:Employment** | 2021. 6 ~ | Data Scientist | **LOTTE DATA COMMUNICATION COMPANY** |
 
 📄 Publication[[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10532320&language=ko_KR)]
