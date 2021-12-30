@@ -1,10 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=EADFF2&height=200&section=header&text=JeongSeung%20Moon&&fontColor=632a72&fontSize=70&animation=fadeIn&fontAlignY=30)
-
-👋 Hello My name is JeongSeung Mun, I am a Data Scientist working at ![image](https://user-images.githubusercontent.com/47103479/124492971-12aab900-ddf0-11eb-8074-4070805556c2.png)
-
-My major is Applied Statistics, and I have been studying Data analysis and MachineLearning since 2018, I have project experience using
-Python(My Most confident language), SQL, R, SPSS languages. I am very interested in machine learning
-
 👨‍💻  Career
 | **Type**                | **Date**              | **Contents**                             | **Organization**       |
 |---------------------|-------------------|--------------------------------------|--------------------|
@@ -43,16 +36,25 @@ Received the grand prize in the 2020 Big Data Youth Talent Development Project (
 📫 Contacts
 
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/moon-jeongseung-24194b182/)](https://www.linkedin.com/in/moon-jeongseung-24194b182/) [![github](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mjs1995.tistory.com/)](https://mjs1995.tistory.com/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjs1995&label=Profile%20views&color=0e75b6&style=flat-square" alt="mjs1995" /> </p>
+
+<!--
+**mjs1995/mjs1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=EADFF2&height=200&section=header&text=JeongSeung%20Moon&&fontColor=632a72&fontSize=70&animation=fadeIn&fontAlignY=30)
+
+👋 Hello My name is JeongSeung Mun, I am a Data Scientist working at ![image](https://user-images.githubusercontent.com/47103479/124492971-12aab900-ddf0-11eb-8074-4070805556c2.png)
+
+My major is Applied Statistics, and I have been studying Data analysis and MachineLearning since 2018, I have project experience using
+Python(My Most confident language), SQL, R, SPSS languages. I am very interested in machine learning
+
 
 ✨ Algorithm 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=munmun2004)](https://solved.ac/munmun2004/)
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mjs1995&" alt="mjs1995" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjs1995&label=Profile%20views&color=0e75b6&style=flat-square" alt="mjs1995" /> </p>
 
-<!--
-**mjs1995/mjs1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
