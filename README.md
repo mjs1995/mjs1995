@@ -1,3 +1,7 @@
+안녕하세요, 이커머스영역에서 애플리케이션 관련 데이터 엔지니어로 일 하고 있습니다.
+
+깃허브는 개인 공부 저장소이며 현재 데이터 엔지니어를 꿈꾸며 역량을 키워나가고 있습니다.
+
 👨‍💻  Career
 | **Type**                | **Date**              | **Contents**                             | **Organization**       |
 |---------------------|-------------------|--------------------------------------|--------------------|
@@ -16,22 +20,27 @@ A Study on the Factors and Overcoming Methods of Extinction of Provinces in Kore
 
 Received the grand prize in the 2020 Big Data Youth Talent Development Project (Data Youth Campus) project evaluation
 
-📚 Tech Stack
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=IBM&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a> 
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> 
+✨ Certificate
 
 [![Tensorfllow Badge](http://img.shields.io/badge/-Tensorflow_Developer_Certificate-FF6F00?style=flat&logo=TensorFlow&logoColor=white&link=https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)](https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)
+
+
+📚 Tech Stack
+
+<p align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+
+<p align="center"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=IBM&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> 
 
 📫 Contacts
 
