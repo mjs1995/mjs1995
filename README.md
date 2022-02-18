@@ -16,9 +16,11 @@
 
 A Study on the Factors and Overcoming Methods of Extinction of Provinces in Korea: The Exploration with Machine Learning methods - The Korean Journal of Local Government Studies
 
-🌱 Award[[Link](https://github.com/mjs1995/yeonsei_project/blob/master/%EC%88%98%EC%83%81.md)]
+🌱 Award
 
-Received the grand prize in the 2020 Big Data Youth Talent Development Project (Data Youth Campus) project evaluation
+[[Link](https://github.com/mjs1995/yeonsei_project/blob/master/%EC%88%98%EC%83%81.md)]Received the grand prize in the 2020 Big Data Youth Talent Development Project (Data Youth Campus) project evaluation
+
+[[Link](https://github.com/mjs1995/yeonsei_project/blob/master/%ED%95%99%EC%88%A0%EC%83%81.md)] (사)한국지방정부학회 제20회(2021년도) 학술상 우수논문상 수상 
 
 ✨ Certificate
 
