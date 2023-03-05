@@ -1,6 +1,4 @@
-안녕하세요, 이커머스영역에서 애플리케이션 관련 데이터 엔지니어로 일 하고 있습니다.
-
-깃허브는 개인 공부 저장소이며 현재 데이터 엔지니어를 꿈꾸며 역량을 키워나가고 있습니다.
+안녕하세요, 깃허브는 개인 공부 저장소이며 현재 데이터 엔지니어를 꿈꾸며 역량을 키워나가고 있습니다.
 
 👨‍💻  Career
 | **Type**                | **Date**              | **Contents**                             | **Organization**       |
@@ -12,9 +10,9 @@
 | **External activities** | 2021.8 ~ 2021.10  | Tableau BootCamp      | **Tableau**  |
 | **:office:Employment** | 2021. 6 ~ | Data Scientist | **LOTTE DATA COMMUNICATION COMPANY** |
 
-📄 Publication[[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10532320&language=ko_KR)]
+📄 Publication
 
-A Study on the Factors and Overcoming Methods of Extinction of Provinces in Korea: The Exploration with Machine Learning methods - The Korean Journal of Local Government Studies
+[[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10532320&language=ko_KR)]A Study on the Factors and Overcoming Methods of Extinction of Provinces in Korea: The Exploration with Machine Learning methods - The Korean Journal of Local Government Studies
 
 🌱 Award
 
@@ -25,7 +23,7 @@ A Study on the Factors and Overcoming Methods of Extinction of Provinces in Kore
 ✨ Certificate
 
 [![Tensorfllow Badge](http://img.shields.io/badge/-Tensorflow_Developer_Certificate-FF6F00?style=flat&logo=TensorFlow&logoColor=white&link=https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)](https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)
-
+[<img src="https://img.shields.io/badge/CKA: Certified Kubernetes Administrator-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>](https://www.credly.com/badges/b7ea1799-30b9-4dc0-b32f-19701266d993/linked_in_profile)
 
 📚 Tech Stack
 
