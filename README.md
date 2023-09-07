@@ -1,14 +1,14 @@
-안녕하세요, 깃허브는 개인 공부 저장소이며 현재 데이터 엔지니어를 꿈꾸며 역량을 키워나가고 있습니다.
+A quick glance at my coding milestones, open-source contributions, and personal achievements.
 
-👨‍💻  Career
-| **Type**                | **Date**              | **Contents**                             | **Organization**       |
-|---------------------|-------------------|--------------------------------------|--------------------|
-| **:mortar_board:Education**           | 2014.3 ~ 2021.2   | Department of Applied Statistics     | **Kyonggi University** |
-| **External activities** | 2019.11 ~ 2019.12 | AI Manager                           | **Nipa**               |
-| **External activities** | 2020.6 ~ 2020.9   | Data Youth Campus(Yonsei University) | **Kdata**              |
-| **External activities** | 2020.10 ~ 2021.1  | Google MachineLearning BootCamp      | **Google Developers**  |
-| **External activities** | 2021.8 ~ 2021.10  | Tableau BootCamp      | **Tableau**  |
-| **:office:Employment** | 2021. 6 ~ | Data Scientist | **LOTTE DATA COMMUNICATION COMPANY** |
+👨‍💻  Open Source Contributions 
+| **PR/Issue No.**                | **Contributions**              | 
+|---------------------|-------------------|
+| **[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466)** | Developed UserVarEvent and Added Statement-Based Logging Test   |
+| **[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464)** | docs: modify docstrings in event.py | 
+| **[#457](https://github.com/julien-duponchelle/python-mysql-replication/pull/457)** | Add Featured Section in README | 
+| **[#427](https://github.com/julien-duponchelle/python-mysql-replication/pull/427)** | Fix typo in row_event.py  | 
+| **[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414)** | Developed RandEvent and add statement-based logging test  | 
+| **[#413](https://github.com/julien-duponchelle/python-mysql-replication/pull/413)** | docs: Update README to add Featured Books | 
 
 📄 Publication
 
