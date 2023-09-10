@@ -44,7 +44,8 @@ A quick glance at my coding milestones, open-source contributions, and personal 
 
 📫 Contacts
 
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/%EC%A0%95%EC%8A%B9-%EB%AC%B8-24194b182/)](https://www.linkedin.com/in/%EC%A0%95%EC%8A%B9-%EB%AC%B8-24194b182/) [![github](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mjs1995.tistory.com/)](https://mjs1995.tistory.com/)
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/%EC%A0%95%EC%8A%B9-%EB%AC%B8-24194b182/)](https://www.linkedin.com/in/jeong-seung-mun-24194b182/) [![github](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mjs1995.tistory.com/)](https://mjs1995.tistory.com/)
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mjs1995&" alt="mjs1995" /></p>
 
 
