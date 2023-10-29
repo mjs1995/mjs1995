@@ -1,14 +1,18 @@
 A quick glance at my coding milestones, open-source contributions, and personal achievements.
 
 👨‍💻  Open Source Contributions 
-| **PR/Issue No.**                | **Contributions**              | 
-|---------------------|-------------------|
-| **[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466)** | Developed UserVarEvent and Added Statement-Based Logging Test   |
-| **[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464)** | docs: modify docstrings in event.py | 
-| **[#457](https://github.com/julien-duponchelle/python-mysql-replication/pull/457)** | Add Featured Section in README | 
-| **[#427](https://github.com/julien-duponchelle/python-mysql-replication/pull/427)** | Fix typo in row_event.py  | 
-| **[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414)** | Developed RandEvent and add statement-based logging test  | 
-| **[#413](https://github.com/julien-duponchelle/python-mysql-replication/pull/413)** | docs: Update README to add Featured Books | 
+| **PR/Issue No.**                | **Contributions**              | **Type** |
+|---------------------|-------------------|----------|
+| **[#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502)** | Modify test structure   | Feature
+| **[#485](https://github.com/julien-duponchelle/python-mysql-replication/pull/485)** | Update README Featured Section with AWS Blog on RDS, XA Transactions   | Documentation
+| **[#484](https://github.com/julien-duponchelle/python-mysql-replication/pull/484)** | Enhance Testing with MySQL8 & Update GitHub Actions   | Feature
+| **[#478](https://github.com/julien-duponchelle/python-mysql-replication/pull/478)** | Remove duplicated Affected columns output in UpdateRowsEvent   | Bugfix
+| **[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466)** | Developed UserVarEvent and Added Statement-Based Logging Test   | Feature
+| **[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464)** | docs: modify docstrings in event.py | Documentation
+| **[#457](https://github.com/julien-duponchelle/python-mysql-replication/pull/457)** | Add Featured Section in README | Documentation
+| **[#427](https://github.com/julien-duponchelle/python-mysql-replication/pull/427)** | Fix typo in row_event.py  | Documentation
+| **[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414)** | Developed RandEvent and add statement-based logging test  | Feature
+| **[#413](https://github.com/julien-duponchelle/python-mysql-replication/pull/413)** | docs: Update README to add Featured Books | Documentation
 
 📄 Publication
 
@@ -16,9 +20,11 @@ A quick glance at my coding milestones, open-source contributions, and personal 
 
 🌱 Award
 
-[[Link](https://github.com/mjs1995/yeonsei_project/blob/master/%EC%88%98%EC%83%81.md)]Received the grand prize in the 2020 Big Data Youth Talent Development Project (Data Youth Campus) project evaluation
+[[Link](https://www.oss.kr/notice/show/53ba6af3-867d-45ad-a31c-ba576c4f1855)] Open Source Contribution Academy 3rd place
 
 [[Link](https://github.com/mjs1995/yeonsei_project/blob/master/%ED%95%99%EC%88%A0%EC%83%81.md)] (사)한국지방정부학회 제20회(2021년도) 학술상 우수논문상 수상 
+
+[[Link](https://github.com/mjs1995/yeonsei_project/blob/master/%EC%88%98%EC%83%81.md)] Received the grand prize in the 2020 Big Data Youth Talent Development Project (Data Youth Campus) project evaluation
 
 ✨ Certificate
 
