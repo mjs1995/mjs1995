@@ -1,6 +1,7 @@
 A quick glance at my coding milestones, open-source contributions, and personal achievements.
 
 👨‍💻  Open Source Contributions 
+## [python-mysql-replication](https://github.com/noplay/python-mysql-replication)
 | **PR/Issue No.**                | **Contributions**              | **Type** |
 |---------------------|-------------------|----------|
 | **[#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502)** | Modify test structure   | Feature
@@ -13,6 +14,11 @@ A quick glance at my coding milestones, open-source contributions, and personal 
 | **[#427](https://github.com/julien-duponchelle/python-mysql-replication/pull/427)** | Fix typo in row_event.py  | Documentation
 | **[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414)** | Developed RandEvent and add statement-based logging test  | Feature
 | **[#413](https://github.com/julien-duponchelle/python-mysql-replication/pull/413)** | docs: Update README to add Featured Books | Documentation
+
+## [diagrams](https://github.com/mingrammer/diagrams)
+| **PR/Issue No.**                | **Contributions**              | 
+|---------------------|-------------------|
+| **[#923](https://github.com/mingrammer/diagrams/pull/923)** | feat(node): Add Trino   |
 
 📄 Publication
 
